@@ -1,3 +1,5 @@
+# Info about the Folders
+
 Each of the three folders contains four image sequences showing many moving and dividing cells.
 
 The files in each folder are the successive time points of the sequence and are named t***.tif accordingly, where *** is the number of the time point.
