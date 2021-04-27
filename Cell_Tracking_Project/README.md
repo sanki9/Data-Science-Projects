@@ -4,6 +4,8 @@ Check the requirements.txt before running the program.
 
 The program can be accessed by downloading this repository and then opening the tracking.ipynb file.
 
+Note: This is a jupyter notebook file and must be run by first running an instance of jupyter notebook.
+
 To run open jupyter file and in the main function enter the (dataset you want to see, sequence from that dataset)
 Note from dataset 1, sequence 1 and 2 were used for developing the neural net hence, test with sequence 3 and 4.
 
