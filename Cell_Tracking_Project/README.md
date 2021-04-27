@@ -18,6 +18,6 @@ Tracking can follow each cells. If you press "p" on your keyboard, you can choos
 Analysis of this cell will present information in the terminal as per task 3 requirements, ie speed of cell, total distance travelled, net distance travelled, and the confinement ratio of the cells motion. 
 
 ### NOTE
-Images obtained from the neural net are stored in cell_images folder in the repository. The code for training the neural net and then obtaining the images for sequences 3 and 4 can be accessed by the following [link](https://colab.research.google.com/drive/1xkDg-9pV3FnKspTvoRRbO2EA6jX8QRab?usp=sharing).
+Images obtained from the neural net are stored in cell_images folder in the repository. The code for training the neural net and then obtaining the images for sequences 3 and 4 can be accessed by the following [link](https://colab.research.google.com/drive/1xkDg-9pV3FnKspTvoRRbO2EA6jX8QRab?usp=sharing). More info on the datasets is inside the cell_images folder.
 
 
